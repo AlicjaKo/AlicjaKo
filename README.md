@@ -12,7 +12,7 @@ I study software engineering at TAMK in Tampere. I’m interested in AI, cloud e
 - C++
 - SQL
 
-## 👩🏻‍💻 My Projects
+# 👩🏻‍💻 My Projects
 Check out MyProjects repository or Task Manager React 🔥
 
 
