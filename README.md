@@ -5,6 +5,6 @@
 - 🌍 Traveller
 
 ## My Projects
-Open "MyProjects" repository to see my recent projects 🔥
-https://github.com/AlicjaKo/MyProjects
+Check out MyProjects repository or Task Manager React 🔥
+
 
