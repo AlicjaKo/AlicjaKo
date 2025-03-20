@@ -10,6 +10,7 @@ I study software engineering at TAMK in Tampere. I’m interested in AI, cloud e
 - Web development (HTML, CSS, JS, React, node.js, Next.js)
 - Python
 - C++
+- MongoDB
 - SQL
 
 # 👩🏻‍💻 My Projects
