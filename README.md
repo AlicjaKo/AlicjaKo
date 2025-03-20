@@ -14,6 +14,6 @@ I study software engineering at TAMK in Tampere. I’m interested in AI, cloud e
 - SQL
 
 # 👩🏻‍💻 My Projects
-Check out Task Manager React or MyProjects repository 🔥
+Check out Task Manager React or Movie Manager repository 🔥
 
 
